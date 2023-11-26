@@ -1,0 +1,16 @@
+.nav-container{
+    background-color: whitesmoke;
+    min-height: 150px;
+}
+.logo-container{
+    display: flex;
+}
+.logo-container img{
+    border: 1px solid none;
+}
+.logo-container p{
+    font-size: 50px;
+}
+.nav-item-container{
+
+}
